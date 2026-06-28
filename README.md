@@ -6,7 +6,7 @@ A modern, responsive Password Generator built with **React**, **Vite**, and **Ta
 
 ## 🚀 Live Demo
 
-> **Live Website:** https://your-live-demo-link.vercel.app
+> **Live Website:** https://password-generator-sandy-zeta.vercel.app
 
 ---
 
@@ -42,14 +42,12 @@ password-generator/
 │
 ├── public/
 ├── src/
-│   ├── components/
-│   ├── App.jsx
-│   ├── main.jsx
-│
 ├── index.html
 ├── package.json
+├── package-lock.json
 ├── vite.config.js
 ├── eslint.config.js
+├── LICENSE
 └── README.md
 ```
 
