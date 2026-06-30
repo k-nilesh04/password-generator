@@ -145,6 +145,17 @@ git push origin feature-name
 
 ---
 
+# AI Disclosure
+
+The AI was used to:
+- Suggest code improvements
+- Help debug issues
+- Improve documentation
+
+The final design, code, implementation, testing, and decisions were made by me.
+
+---
+
 ## 👨‍💻 Author
 
 **K Nilesh**
