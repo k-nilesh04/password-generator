@@ -145,7 +145,7 @@ git push origin feature-name
 
 ---
 
-# AI Disclosure
+## AI Disclosure
 
 The AI was used to:
 - Suggest code improvements
