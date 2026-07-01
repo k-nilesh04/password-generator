@@ -6,7 +6,7 @@ A modern, responsive Password Generator built with **React**, **Vite**, and **Ta
 
 ## 🚀 Live Demo
 
-> **Live Website:** https://password-generator-sandy-zeta.vercel.app
+- [visit](https://password-generator-sandy-zeta.vercel.app)
 
 ---
 
@@ -53,46 +53,6 @@ password-generator/
 
 ---
 
-## ⚙️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/k-nilesh04/password-generator.git
-```
-
-Navigate to the project folder
-
-```bash
-cd password-generator
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run the development server
-
-```bash
-npm run dev
-```
-
-Build for production
-
-```bash
-npm run build
-```
-
-Preview the production build
-
-```bash
-npm run preview
-```
-
----
-
 ## 📖 How It Works
 
 1. Choose the desired password length.
@@ -115,33 +75,6 @@ npm run preview
 * Pronounceable Passwords
 * Passphrase Generator
 * Save Favorite Password Configurations
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a new branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push your branch
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request
 
 ---
 
